@@ -1,0 +1,31 @@
+/* src/App.css */
+
+/* src/App.css */
+
+.ticket-card {
+  display: flex;
+  background-color: #44dd9d;
+  padding: 10px;
+  border: 20px solid #5c4bdd;
+  margin-bottom: 10px;
+}
+
+.user-picture img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.ticket-details {
+  flex-grow: 1;
+}
+
+.kanban-board {
+  display: flex;
+}
+
+.kanban-column {
+  flex-grow: 1;
+  margin: 10px;
+}
